@@ -1,0 +1,10 @@
+allure-pytest
+jsonpath
+pandas
+PyMySQL
+PyQt5
+pytest
+pytest-ordering
+PyYAML
+requests
+urllib3
